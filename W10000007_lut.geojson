@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "W10000007_lut",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"region_id":"W10000007","reg_name_e":"South Wales Central","reg_name_w":"Canol De Cymru","authority_id":"W06000016","auth_name_e":"Rhondda Cynon Taf","auth_name_w":"Rhondda Cynon Taf","country":"Wales","absolute_filepath":"Wales/W10000007/W06000016"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"W10000007","reg_name_e":"South Wales Central","reg_name_w":"Canol De Cymru","authority_id":"W06000014","auth_name_e":"Vale of Glamorgan","auth_name_w":"Bro Morgannwg","country":"Wales","absolute_filepath":"Wales/W10000007/W06000014"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"W10000007","reg_name_e":"South Wales Central","reg_name_w":"Canol De Cymru","authority_id":"W06000015","auth_name_e":"Cardiff","auth_name_w":"Caerdydd","country":"Wales","absolute_filepath":"Wales/W10000007/W06000015"},"geometry":null}
+]
+}
