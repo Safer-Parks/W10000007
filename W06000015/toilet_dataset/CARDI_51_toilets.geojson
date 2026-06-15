@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CARDI_51_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rhydypennau Library", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 199, "park_offical_id": "CARDI_51" }, "geometry": { "type": "Point", "coordinates": [ -3.177967072, 51.519426997 ] } }
+]
+}

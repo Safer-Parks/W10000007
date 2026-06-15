@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CARDI_324_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Costa Coffee", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 143, "park_offical_id": "CARDI_324" }, "geometry": { "type": "Point", "coordinates": [ -3.144482374, 51.492997057 ] } },
+{ "type": "Feature", "properties": { "name": "Sainsburys", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "07:00-22:00", "Tue": "07:00-22:00", "Wed": "07:00-22:00", "Thu": "07:00-22:00", "Fri": "07:00-22:00", "Sat": "07:00-22:00", "Sun": "10:00-16:00", "index_right": 143, "park_offical_id": "CARDI_324" }, "geometry": { "type": "Point", "coordinates": [ -3.147920966, 51.495643736 ] } },
+{ "type": "Feature", "properties": { "name": "Morrissons", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 143, "park_offical_id": "CARDI_324" }, "geometry": { "type": "Point", "coordinates": [ -3.142175674, 51.499813665 ] } }
+]
+}

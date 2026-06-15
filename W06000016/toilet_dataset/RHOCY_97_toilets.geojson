@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "RHOCY_97_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "markey", "payment_info": "20p", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 93, "park_offical_id": "RHOCY_97" }, "geometry": { "type": "Point", "coordinates": [ -3.341235316, 51.602128851 ] } },
+{ "type": "Feature", "properties": { "name": "Pontypridd station", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 93, "park_offical_id": "RHOCY_97" }, "geometry": { "type": "Point", "coordinates": [ -3.341388164, 51.599366248 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "VALGL_24_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 46, "park_offical_id": "VALGL_24" }, "geometry": { "type": "Point", "coordinates": [ -3.1677672, 51.4377466 ] } },
+{ "type": "Feature", "properties": { "name": "Penarth town centre ", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 46, "park_offical_id": "VALGL_24" }, "geometry": { "type": "Point", "coordinates": [ -3.173265124, 51.439062907 ] } },
+{ "type": "Feature", "properties": { "name": "Penarth pier", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 46, "park_offical_id": "VALGL_24" }, "geometry": { "type": "Point", "coordinates": [ -3.166626692, 51.435109507 ] } }
+]
+}

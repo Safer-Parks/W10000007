@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CARDI_12_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ty Glas Road", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 55, "park_offical_id": "CARDI_12" }, "geometry": { "type": "Point", "coordinates": [ -3.190686107, 51.528742416 ] } },
+{ "type": "Feature", "properties": { "name": "Llanishen Baptist Church", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 55, "park_offical_id": "CARDI_12" }, "geometry": { "type": "Point", "coordinates": [ -3.184731603, 51.52842537 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 55, "park_offical_id": "CARDI_12" }, "geometry": { "type": "Point", "coordinates": [ -3.1864952, 51.5461415 ] } }
+]
+}
