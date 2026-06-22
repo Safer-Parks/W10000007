@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "RHOCY_10_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3120371,51.5655244],[-3.3119903,51.5649634],[-3.312144,51.5649408],[-3.312142,51.5648717],[-3.3121418,51.5648649],[-3.3121811,51.5648269],[-3.3121371,51.5637034],[-3.3120798,51.5634509],[-3.3120659,51.5633685],[-3.3120318,51.5633512],[-3.3120332,51.5633009],[-3.3120199,51.5632781],[-3.3119482,51.5632814],[-3.3118946,51.5632543],[-3.3118532,51.5630025],[-3.3118251,51.5626826],[-3.3118389,51.5623129]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3124101,51.5676572],[-3.3124385,51.5677725],[-3.3124916,51.5679859],[-3.3125305,51.5681663],[-3.3125836,51.5682873],[-3.3126216,51.5683203]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3117339,51.5681014],[-3.3116162,51.5682092],[-3.3116376,51.5682583]]]}}
+]
+}

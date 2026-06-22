@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "VALGL_56_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3678809,51.3868828],[-3.3681035,51.3868292],[-3.3681116,51.3867974],[-3.3680848,51.3866501],[-3.3680445,51.3863722],[-3.3680209,51.3862663]]]}}
+]
+}

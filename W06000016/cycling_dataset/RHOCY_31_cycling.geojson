@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "RHOCY_31_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.4090329,51.6246853],[-3.4089849,51.6246437],[-3.4087223,51.6246248],[-3.4086395,51.6246111],[-3.4083597,51.624565],[-3.4084439,51.6239881],[-3.4084814,51.6238149],[-3.4084332,51.623342],[-3.4084598,51.6226674]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.4176387,51.6342602],[-3.4174985,51.6342508],[-3.4172415,51.6342144],[-3.4168607,51.6340996],[-3.4164959,51.6338914],[-3.4163671,51.6337682],[-3.4159138,51.6334934],[-3.4149348,51.6329658],[-3.4140014,51.6326395],[-3.4134274,51.6324363],[-3.4130144,51.632443],[-3.4128669,51.6324148],[-3.4125262,51.6323498],[-3.4120971,51.6323298],[-3.4119308,51.6322332],[-3.4118181,51.6320667],[-3.4116089,51.6319469],[-3.4112468,51.6317519],[-3.4111636,51.631564],[-3.4109974,51.6313409],[-3.4105789,51.6314041],[-3.4101659,51.6314874],[-3.4100103,51.6313775],[-3.4097477,51.6307537]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.4130865,51.6323006],[-3.4136492,51.6320078],[-3.4125651,51.6313762]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.4125651,51.6313762],[-3.4125074,51.6313426],[-3.4125658,51.6313035],[-3.412944,51.631531],[-3.4130592,51.6315264]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.4128669,51.6324148],[-3.4130865,51.6323006]]]}}
+]
+}

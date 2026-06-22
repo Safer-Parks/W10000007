@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "VALGL_80_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.2072344,51.4337398],[-3.2071732,51.4338456]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Cardiff Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.1997665,51.444081],[-3.1999347,51.4439413],[-3.2000032,51.4438789],[-3.2003224,51.4435713],[-3.2007006,51.4432052],[-3.2010091,51.4429244],[-3.2013846,51.4425482],[-3.2017467,51.4422188],[-3.2019344,51.4420416],[-3.2024548,51.4415535],[-3.2026291,51.4413829]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.2048872,51.4334495],[-3.2051567,51.4334274]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.2094403,51.4341866],[-3.2095191,51.4341617],[-3.2095848,51.4341124],[-3.209625,51.4340622],[-3.2096813,51.4340238],[-3.2097188,51.4339806],[-3.209731,51.4339733]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.2131369,51.4364018],[-3.2129316,51.4364058]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.2026291,51.4413829],[-3.2026097,51.4412817]]]}}
+]
+}

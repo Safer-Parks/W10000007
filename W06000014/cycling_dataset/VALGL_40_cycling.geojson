@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "VALGL_40_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3678809,51.3868828],[-3.3681035,51.3868292],[-3.3681116,51.3867974],[-3.3680848,51.3866501],[-3.3680445,51.3863722],[-3.3680209,51.3862663]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3551973,51.3911293],[-3.3552211,51.3911518],[-3.355232,51.3911692],[-3.3552454,51.3912315],[-3.3552656,51.3913145],[-3.3553352,51.3913872],[-3.3564787,51.3923862],[-3.3567571,51.3927561],[-3.3568304,51.3928678]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.354915,51.3909707],[-3.3547357,51.3910475]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3547357,51.3910475],[-3.354557,51.3911287],[-3.3544756,51.3911723],[-3.3544145,51.3912071],[-3.3543615,51.3912165],[-3.3540226,51.3912733],[-3.3536977,51.391315],[-3.353471,51.3913359],[-3.3533653,51.3913347],[-3.3531956,51.3913296],[-3.3530137,51.3913207],[-3.3529161,51.3913131],[-3.3528582,51.3913042],[-3.3528277,51.3912922],[-3.3528541,51.3912694],[-3.3529598,51.3911932],[-3.3530675,51.3911267],[-3.353221,51.3910943],[-3.3534619,51.3910423],[-3.3537119,51.3910372],[-3.3539508,51.3910588],[-3.3542028,51.3911026],[-3.3544213,51.3911527],[-3.3544756,51.3911723]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.353471,51.3913359],[-3.3533676,51.391356],[-3.3532898,51.3913791],[-3.3532398,51.3913978],[-3.353229,51.3914103],[-3.3532293,51.3914206]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3532293,51.3914206],[-3.3532303,51.391431]]]}}
+]
+}

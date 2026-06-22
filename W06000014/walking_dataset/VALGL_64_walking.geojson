@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "VALGL_64_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3636561,51.3930322],[-3.3638022,51.3930127],[-3.3638152,51.393061],[-3.3639252,51.3930509],[-3.364012,51.3930308],[-3.364096,51.3930022],[-3.3641562,51.3929676],[-3.3643148,51.3928486],[-3.3645601,51.3927935]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.3703122,51.3992864],[-3.3704089,51.3992023],[-3.3707051,51.3991499],[-3.3712845,51.398668],[-3.3716868,51.3981358],[-3.3716546,51.3971954],[-3.3721589,51.3969477],[-3.372175,51.3966063],[-3.3720923,51.3964166],[-3.3719926,51.3961879],[-3.3733766,51.3959938],[-3.3737747,51.3956514]]]}}
+]
+}

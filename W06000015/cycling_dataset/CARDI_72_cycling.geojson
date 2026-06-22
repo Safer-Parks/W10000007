@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CARDI_72_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.2021754,51.5243792],[-3.2021848,51.5243588],[-3.2021636,51.5242622],[-3.2021345,51.5241374],[-3.2021005,51.5239858],[-3.2020761,51.5239028],[-3.2020094,51.5236829],[-3.2019548,51.5235095],[-3.2019031,51.5233441],[-3.2018319,51.5231261],[-3.2018075,51.5230469],[-3.2017965,51.5230237],[-3.2017801,51.5230082],[-3.2017607,51.5230099]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.2076559,51.5171189],[-3.2077343,51.5170937],[-3.2080199,51.5166684],[-3.2084823,51.5158559],[-3.208876,51.5150709]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.2083847,51.5209711],[-3.2083941,51.5209884],[-3.2085525,51.5211385]]]}}
+]
+}

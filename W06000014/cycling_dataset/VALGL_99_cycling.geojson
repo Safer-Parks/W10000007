@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "VALGL_99_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.2369194,51.4162964],[-3.2366833,51.4164285],[-3.236509,51.4166058],[-3.2359296,51.4170943],[-3.2358304,51.4171729],[-3.2357231,51.4171779],[-3.2356236,51.4172735]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.2421456,51.4149506],[-3.2397429,51.4153163],[-3.2395899,51.4153399],[-3.2388704,51.4154509],[-3.2388125,51.4154857],[-3.2386911,51.4156232],[-3.2385822,51.415718],[-3.2376405,51.41652]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.238491,51.4122072],[-3.2385307,51.412178],[-3.2387807,51.4121124],[-3.2388561,51.4121125]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.2403803,51.4115591],[-3.2404279,51.4115194],[-3.2406041,51.4114754],[-3.2406332,51.4114682]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.244028,51.4225759],[-3.2439628,51.4226068],[-3.2437632,51.4227106],[-3.2434096,51.4229418],[-3.2433251,51.4230066],[-3.2433023,51.4230167],[-3.2431924,51.4230438]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.244773,51.4221932],[-3.2448124,51.4221356],[-3.2448433,51.4220796],[-3.2449619,51.4220683],[-3.2451088,51.4220954],[-3.2452717,51.4221787],[-3.2453039,51.4222355],[-3.2453281,51.4224571],[-3.2454722,51.4227649],[-3.2456097,51.4229367],[-3.2457733,51.4232972],[-3.2458565,51.4234326],[-3.2459798,51.4235179],[-3.2462722,51.423574],[-3.2467389,51.42363],[-3.2467763,51.4236253],[-3.2469186,51.4236074]]]}}
+]
+}
