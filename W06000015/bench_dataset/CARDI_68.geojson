@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CARDI_68",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 7013950895, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.1648395, 51.4818144 ] } },
+{ "type": "Feature", "properties": { "osm_id": 7013950894, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.1648582, 51.481882 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12759470003, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.1654559, 51.4819286 ] } },
+{ "type": "Feature", "properties": { "osm_id": 7013950893, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.1648126, 51.4819388 ] } }
+]
+}

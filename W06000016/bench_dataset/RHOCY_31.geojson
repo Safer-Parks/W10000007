@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "RHOCY_31",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13078935680, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.4108882, 51.6317305 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13078935681, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.4108474, 51.6317486 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13078935682, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.4108065, 51.6317638 ] } }
+]
+}
