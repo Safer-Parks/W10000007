@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "VALGL_67",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13074580960, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.5524224, 51.4365182 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13074580957, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.5530652, 51.4367425 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13074580961, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.5523217, 51.436823 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13074580958, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.5532617, 51.4369248 ] } }
+]
+}

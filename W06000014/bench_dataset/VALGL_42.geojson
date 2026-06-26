@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "VALGL_42",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11917943709, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.2744663, 51.4036601 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11917943708, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.2744552, 51.4037205 ] } }
+]
+}
