@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CARDI_0_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1268095428, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": "no", "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.2703834, 51.462661 ], [ -3.2704667, 51.4627066 ], [ -3.2704998, 51.4627472 ], [ -3.2705264, 51.462802 ], [ -3.270569, 51.4629404 ], [ -3.270607, 51.4630856 ], [ -3.2706331, 51.4631823 ], [ -3.2707106, 51.463487 ], [ -3.2707664, 51.4637141 ], [ -3.2707763, 51.4637812 ], [ -3.2708033, 51.4639626 ], [ -3.2707463, 51.4640897 ] ] } }
+]
+}

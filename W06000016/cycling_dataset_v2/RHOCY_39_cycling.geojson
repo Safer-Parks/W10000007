@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "RHOCY_39_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 31551955, "highway": "unclassified", "name": null, "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.4764679, 51.6432871 ], [ -3.4762365, 51.6432548 ], [ -3.4761143, 51.6432534 ], [ -3.4759524, 51.6432842 ], [ -3.4751888, 51.6434952 ], [ -3.4743502, 51.6436896 ], [ -3.4740909, 51.6437175 ], [ -3.4728849, 51.6437287 ], [ -3.4722029, 51.6437455 ], [ -3.4715315, 51.6437557 ], [ -3.4695538, 51.6438013 ], [ -3.4694085, 51.6438009 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 654026398, "highway": "unclassified", "name": null, "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.4764679, 51.6432871 ], [ -3.4763023, 51.643298 ], [ -3.476091, 51.6433451 ], [ -3.4757521, 51.6434658 ], [ -3.4754497, 51.6435678 ], [ -3.4743301, 51.6438548 ], [ -3.4742239, 51.6438696 ], [ -3.4738772, 51.6438727 ], [ -3.4726792, 51.6438957 ], [ -3.471954, 51.6439096 ], [ -3.4703597, 51.6439402 ], [ -3.4694115, 51.6439584 ], [ -3.4692846, 51.643931 ], [ -3.4692176, 51.6438844 ], [ -3.4692019, 51.6438676 ], [ -3.4691387, 51.6438002 ] ] } }
+]
+}
